@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "36435104271",
+    "project_id": "nicepatrol-546f7",
+    "storage_bucket": "nicepatrol-546f7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:36435104271:android:1d05be9b5cbd5072bf897a",
+        "android_client_info": {
+          "package_name": "com.example.patroli"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4r2OB3e2_o9kmvYJbQ08Yp-ceGHJ2EWw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
